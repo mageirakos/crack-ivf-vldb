@@ -1,0 +1,8 @@
+Batch Size: 16
+Number of Queries: 1000000.0
+Algorithm: CrackIVF*
+Filter: None
+Number of batches where crack_time_ms_mean >= 1: 4
+Percentage of batches where crack_time_ms_mean >= 1: 0.00640%
+Number of batches where refine_time_ms_mean >= 1: 133
+Percentage of batches where refine_time_ms_mean >= 1: 0.21280%

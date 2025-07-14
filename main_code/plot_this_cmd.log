@@ -1,0 +1,1 @@
+run_command "python run_ours.py --run_desc 20250601_RULE2OFF_REVISION_final_run1 --get_qps --store --detailed --clear_results --target_queries 1000000 --nruns 1 --niter 10 --nprobe 99999 --dbname SIFT1M --nthreads 16 --nlist 100"
